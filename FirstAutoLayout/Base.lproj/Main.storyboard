@@ -34,7 +34,7 @@
                                 <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="C" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jli-DO-vsc">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" misplaced="YES" text="C" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jli-DO-vsc">
                                 <rect key="frame" x="16" y="200" width="568" height="41"/>
                                 <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -55,6 +55,7 @@
                             <constraint firstItem="xES-dz-YZC" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="Grs-SN-COT"/>
                             <constraint firstItem="xES-dz-YZC" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="Qgd-1W-4IO"/>
                             <constraint firstItem="xES-dz-YZC" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="Rkg-zT-BQo"/>
+                            <constraint firstItem="Jli-DO-vsc" firstAttribute="top" secondItem="V9X-U3-5lx" secondAttribute="bottom" constant="63" id="Rtq-jX-eHI"/>
                             <constraint firstItem="V9X-U3-5lx" firstAttribute="height" secondItem="xES-dz-YZC" secondAttribute="height" id="fIa-6G-Shp"/>
                             <constraint firstItem="V9X-U3-5lx" firstAttribute="width" secondItem="xES-dz-YZC" secondAttribute="width" id="hYv-o6-CCz"/>
                             <constraint firstItem="V9X-U3-5lx" firstAttribute="top" secondItem="xES-dz-YZC" secondAttribute="bottom" constant="27" id="x5P-L5-jNk"/>
