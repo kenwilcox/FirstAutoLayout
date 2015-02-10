@@ -55,6 +55,8 @@
                             <constraint firstItem="xES-dz-YZC" firstAttribute="trailing" secondItem="8bC-Xf-vdC" secondAttribute="trailingMargin" id="Grs-SN-COT"/>
                             <constraint firstItem="xES-dz-YZC" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="Qgd-1W-4IO"/>
                             <constraint firstItem="xES-dz-YZC" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="Rkg-zT-BQo"/>
+                            <constraint firstItem="V9X-U3-5lx" firstAttribute="height" secondItem="xES-dz-YZC" secondAttribute="height" id="fIa-6G-Shp"/>
+                            <constraint firstItem="V9X-U3-5lx" firstAttribute="width" secondItem="xES-dz-YZC" secondAttribute="width" id="hYv-o6-CCz"/>
                             <constraint firstItem="V9X-U3-5lx" firstAttribute="top" secondItem="xES-dz-YZC" secondAttribute="bottom" constant="27" id="x5P-L5-jNk"/>
                         </constraints>
                     </view>
