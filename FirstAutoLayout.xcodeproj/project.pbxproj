@@ -13,6 +13,7 @@
 		BEDB5A9E1A89C4D900DD0DFB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BEDB5A9D1A89C4D900DD0DFB /* Images.xcassets */; };
 		BEDB5AA11A89C4D900DD0DFB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BEDB5A9F1A89C4D900DD0DFB /* LaunchScreen.xib */; };
 		BEDB5AAD1A89C4D900DD0DFB /* FirstAutoLayoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEDB5AAC1A89C4D900DD0DFB /* FirstAutoLayoutTests.swift */; };
+		BEDB5AB81A89CA5800DD0DFB /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = BEDB5AB61A89CA5800DD0DFB /* LICENSE */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,8 @@
 		BEDB5AA61A89C4D900DD0DFB /* FirstAutoLayoutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FirstAutoLayoutTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEDB5AAB1A89C4D900DD0DFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEDB5AAC1A89C4D900DD0DFB /* FirstAutoLayoutTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstAutoLayoutTests.swift; sourceTree = "<group>"; };
+		BEDB5AB61A89CA5800DD0DFB /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		BEDB5AB71A89CA5800DD0DFB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +62,8 @@
 		BEDB5A881A89C4D900DD0DFB = {
 			isa = PBXGroup;
 			children = (
+				BEDB5AB61A89CA5800DD0DFB /* LICENSE */,
+				BEDB5AB71A89CA5800DD0DFB /* README.md */,
 				BEDB5A931A89C4D900DD0DFB /* FirstAutoLayout */,
 				BEDB5AA91A89C4D900DD0DFB /* FirstAutoLayoutTests */,
 				BEDB5A921A89C4D900DD0DFB /* Products */,
@@ -194,6 +199,7 @@
 			files = (
 				BEDB5A9C1A89C4D900DD0DFB /* Main.storyboard in Resources */,
 				BEDB5AA11A89C4D900DD0DFB /* LaunchScreen.xib in Resources */,
+				BEDB5AB81A89CA5800DD0DFB /* LICENSE in Resources */,
 				BEDB5A9E1A89C4D900DD0DFB /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
